@@ -1,0 +1,14 @@
+C:\Users\Valeria\Desktop\tasks\Knapsack_problem\Knapsack_problem\bin\Debug\net7.0\Knapsack_problem.exe
+C:\Users\Valeria\Desktop\tasks\Knapsack_problem\Knapsack_problem\bin\Debug\net7.0\Knapsack_problem.deps.json
+C:\Users\Valeria\Desktop\tasks\Knapsack_problem\Knapsack_problem\bin\Debug\net7.0\Knapsack_problem.runtimeconfig.json
+C:\Users\Valeria\Desktop\tasks\Knapsack_problem\Knapsack_problem\bin\Debug\net7.0\Knapsack_problem.dll
+C:\Users\Valeria\Desktop\tasks\Knapsack_problem\Knapsack_problem\bin\Debug\net7.0\Knapsack_problem.pdb
+C:\Users\Valeria\Desktop\tasks\Knapsack_problem\Knapsack_problem\obj\Debug\net7.0\Knapsack_problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valeria\Desktop\tasks\Knapsack_problem\Knapsack_problem\obj\Debug\net7.0\Knapsack_problem.AssemblyInfoInputs.cache
+C:\Users\Valeria\Desktop\tasks\Knapsack_problem\Knapsack_problem\obj\Debug\net7.0\Knapsack_problem.AssemblyInfo.cs
+C:\Users\Valeria\Desktop\tasks\Knapsack_problem\Knapsack_problem\obj\Debug\net7.0\Knapsack_problem.csproj.CoreCompileInputs.cache
+C:\Users\Valeria\Desktop\tasks\Knapsack_problem\Knapsack_problem\obj\Debug\net7.0\Knapsack_problem.dll
+C:\Users\Valeria\Desktop\tasks\Knapsack_problem\Knapsack_problem\obj\Debug\net7.0\refint\Knapsack_problem.dll
+C:\Users\Valeria\Desktop\tasks\Knapsack_problem\Knapsack_problem\obj\Debug\net7.0\Knapsack_problem.pdb
+C:\Users\Valeria\Desktop\tasks\Knapsack_problem\Knapsack_problem\obj\Debug\net7.0\Knapsack_problem.genruntimeconfig.cache
+C:\Users\Valeria\Desktop\tasks\Knapsack_problem\Knapsack_problem\obj\Debug\net7.0\ref\Knapsack_problem.dll
